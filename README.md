@@ -34,7 +34,7 @@ Things you may want to cover:
 | first_name_kana     | string     | null: false                    |
 | nick_name           | string     | null: false                    |
 | email               | string     | null: false, unique: true      |
-| encrypted_password  | string     | null: false, unique: true      |
+| encrypted_password  | string     | null: false                    |
 | birthday_date       | date       | null: false                    |
 
 
